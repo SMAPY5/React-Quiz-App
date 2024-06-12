@@ -1,0 +1,130 @@
+export const data = [
+    {
+      question: "Which device is required for the Internet connection?",
+      option1: "Modem",
+      option2: "Router",
+      option3: "LAN Cable",
+      option4: "Pen Drive",
+      ans: 1,
+    },
+    {
+      question: "Which continent has the highest number of countries?",
+      option1: "Asia",
+      option2: "Europe",
+      option3: "North America",
+      option4: "Africa",
+      ans: 4,
+    },
+    {
+      question: "Junk e-mail is also called?",
+      option1: "Spam",
+      option2: "Fake",
+      option3: "Archived",
+      option4: "Bin",
+      ans: 1,
+    },
+    {
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+    {
+        question: "Which language runs in a web browser?",
+       
+        option1: "Java",
+        option2: "C",
+        option3: "Python",
+        option4: "Javascript",
+        ans: 4,
+        
+    },
+    {
+        question: "What does CSS stand for?",
+        
+        option1: "Central Style Sheets",
+        option2: "Cascading Style Sheets",
+        option3: "Cascading Simple Sheets",
+        option4: "Cars SUVs Sailboats",
+        ans: 2,
+    },
+    {
+        question: "What does HTML stand for?",
+       
+        option1: "Hypertext Markup Language",
+        option2: "Hypertext Markdown Language",
+        option3: "Hyperloop Machine Language",
+        option4: "Helicopters Terminals Motorboats Lamborginis",
+        ans: 1,
+        
+    },
+    {
+        question: "What year was JavaScript launched?",
+       
+        option1: "1996",
+        option2: "1995",
+        option3: "1994",
+        option4: "none of the above",
+        ans: 2,
+    },
+    {
+        question: "If you have a page of search results and want to highlight the searchterm,what HTML tag would you use?",
+        option1: "<em>",
+        option2: "<strong>",
+        option3: "<mark>",
+        option4: "<highlight>",
+        ans: 3,
+      },
+      {
+        question: "Which technology is primarly responsible for the styling of webpages?",
+        option1: "Javascript",
+        option2: "HTML",
+        option3: "CSS",
+        option4: "Python",
+        ans: 3,
+      },
+      {
+        question: "What is the purpose of a front-end web development framework like React or Angular?",
+        option1: "To manage databases and server-side logic",
+        option2: "To create a visually appealing user interface",
+        option3: "To handle server-side routing",
+        option4: "To interact with web servers",
+        ans: 2,
+      },
+      {
+        question: "Which programming language is mainly used for adding interact to websites?",
+        option1: "HTML",
+        option2: "CSS",
+        option3: "Python",
+        option4: "Javascript",
+        ans: 4,
+      },
+      {
+        question: "Which of the following is not a back-end programming language commonly used in web development?",
+        option1: "PHP",
+        option2: "Ruby",
+        option3: "Java",
+        option4: "HTML",
+        ans: 4,
+      },
+      {
+          question: "Which HTML tag is used to create a hyperlink?",
+         
+          option1: "{a}",
+          option2: "{link}",
+          option3: "{h1}",
+          option4: "{p}",
+          ans: 1,
+          
+      },
+  ];
